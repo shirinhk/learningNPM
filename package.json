@@ -15,7 +15,6 @@
   "author": "SK",
   "license": "ISC",
   "dependencies": {
-    "gulp": "^4.0.2",
-    "jquery": "^3.6.0"
+    "gulp": "^4.0.2"
   }
 }
